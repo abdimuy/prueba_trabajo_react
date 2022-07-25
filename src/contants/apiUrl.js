@@ -1,0 +1,1 @@
+export default 'https://api.datos.gob.mx/v1/condiciones-atmosfericas'
